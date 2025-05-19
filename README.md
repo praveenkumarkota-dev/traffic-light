@@ -33,7 +33,7 @@ This is a beginner-friendly mini project that simulates a traffic light system u
 
 ## 📸 Preview
 
-![Traffic Light Preview](preview-image.png) <!-- Replace with actual image if available -->
+![Traffic Light Preview](image_traffic_light.png)
 
 ---
 
